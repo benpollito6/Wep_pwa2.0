@@ -1,0 +1,22 @@
+{
+    "name": "Página Sencilla",
+    "short_name": "Sencilla",
+    "description": "Una página web sencilla con HTML y JavaScript.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f4f4f9",
+    "theme_color": "#4CAF50",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./linux-icon-512x512-hox75dbj.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
